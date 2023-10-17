@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Education
-Electrical and Electronics Engineering, B.Tech
+Electrical and Electronics Engineering, B.Tech<br>
 Amrita School of Engineering, Bangalore
 
 ### Work Experience
